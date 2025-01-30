@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="29px" viewBox="0 0 32 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>down-arrow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="down-arrow" transform="translate(1.000000, -0.000100)">
+            <g id="Group-3" transform="translate(14.662000, 0.000000)"></g>
+            <line x1="0" y1="13.4398" x2="15.165" y2="28.6048" id="Stroke-4" stroke="#FFFFFF" stroke-width="0.625" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="30.3312" y1="13.4398" x2="15.1662" y2="28.6048" id="Stroke-6" stroke="#FFFFFF" stroke-width="0.625" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="15.162" y1="0" x2="15.162" y2="28.202" id="Stroke-1" stroke="#FFFFFF" stroke-width="0.625"></line>
+        </g>
+    </g>
+</svg>
